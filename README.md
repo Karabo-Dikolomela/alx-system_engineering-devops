@@ -1,11 +1,11 @@
 # System engineering & Devops
 **System engineering and Devops** module, carried out during **Full Stack Software Engineering studies** at [ALX]
 
-##Technologies
+## Technologies
 *Scripts written in Bash 5.0.17(1)
 *Tested on Ubuntu 20.04.4 LTS
 
-##Projects
+## Projects
 | Project | Description |
 | :-------- | :--------- |
 | [0x00-shell_basics](https://github.com/Karabo-Dikolomela/alx-system_engineering-devops/tree/main/0x00-shell_basics) | Basic comands, navigation, files and directories in **Shell**|
